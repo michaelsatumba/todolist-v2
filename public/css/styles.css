@@ -5,6 +5,10 @@ html {
   font-family: 'helvetica neue';
 }
 
+.hello {
+  color: #A683E3;
+}
+
 h1 {
   color: #fff;
   padding: 10px;
